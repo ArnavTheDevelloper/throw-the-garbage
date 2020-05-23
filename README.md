@@ -1,1 +1,1 @@
-# throw-the-garbage
+# CP-2
